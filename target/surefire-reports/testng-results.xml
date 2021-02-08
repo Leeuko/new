@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Parameters Suite" duration-ms="77" started-at="2020-11-10T12:04:30 EET" finished-at="2020-11-10T12:04:30 EET">
+    <groups>
+    </groups>
+    <test name="Params" duration-ms="77" started-at="2020-11-10T12:04:30 EET" finished-at="2020-11-10T12:04:30 EET">
+      <class name="SampleTest">
+        <test-method status="PASS" signature="Sum(int, int)[pri:0, instance:SampleTest@27c20538]" name="Sum" duration-ms="10" started-at="2020-11-10T12:04:30 EET" finished-at="2020-11-10T12:04:30 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- SampleTest -->
+    </test> <!-- Params -->
+  </suite> <!-- TestNG Parameters Suite -->
+</testng-results>
